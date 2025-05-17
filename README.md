@@ -3,6 +3,8 @@
 ## 📌 Descrição
 Este projeto, desenvolvido no ambiente Google Colab, extrai áudio de vídeos do YouTube, transcreve-o usando o modelo Whisper da OpenAI, analisa sentimentos, gera resumos automáticos, extrai palavras-chave e sugere temas para criar posts otimizados para Instagram utilizando agentes de IA baseados na API Gemini. A palavra-chave extraída do resumo é usada como base para o tópico do post, integrando transcrição, análise e criação de conteúdo. A interface web interativa, construída com Dash, facilita a interação com essas funcionalidades. O Google Colab é o ambiente recomendado para a primeira experiência devido à sua facilidade de configuração e suporte a bibliotecas.
 
+![screenshot](images/yt-transcribe-ai.png)
+
 ## 🚀 Objetivos
 - ✅ Extrair áudio de vídeos do YouTube.
 - ✅ Transcrever áudio em texto com suporte a inglês, português e espanhol.
