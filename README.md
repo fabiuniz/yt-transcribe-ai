@@ -113,6 +113,10 @@ print(result["text"])
 - **Análise de Podcasts**: Identifique sentimentos em podcasts para insights de mercado.
 - **Posts para Instagram**: Crie posts baseados em temas extraídos de vídeos.
 - **Otimização de Conteúdo**: Use palavras-chave para melhorar a relevância de posts.
+- Estudo Eficiente: Analise videoaulas e acesse diretamente os momentos chave mencionados pelo professor, otimizando o tempo de estudo.
+- Revisão Rápida: Em entrevistas ou palestras longas, navegue pelos tópicos de maior interesse sem precisar assistir a todo o conteúdo.
+- Criação de Conteúdo Dinâmico: Utilize os pontos importantes como base para criar pequenos vídeos de destaque ou stories no Instagram, direcionando os seguidores para o momento exato no vídeo original.
+- Acessibilidade Aprimorada: Facilite o acesso a informações específicas para usuários que buscam respostas diretas.
 
 ## 🎯 Melhorias Futuras
 - Adicionar suporte a mais idiomas na transcrição (ex.: francês, alemão).
@@ -125,6 +129,10 @@ print(result["text"])
 - Exportar resumos em formatos adicionais (ex.: PDF, DOCX).
 - Adicionar suporte a vídeos ao vivo do YouTube.
 - Criar documentação detalhada com tutoriais e exemplos avançados.
+- Adicionar a capacidade de personalizar a lista de pontos importantes, permitindo ao usuário editar ou adicionar suas próprias anotações e links.
+- Explorar a possibilidade de visualizar um pequeno trecho do vídeo ao passar o mouse sobre o link, oferecendo um contexto rápido antes de clicar.
+- Implementar diferentes critérios para identificar os pontos importantes, como frequência de palavras-chave, mudanças de tópico ou identificação de clímax na narrativa.
+- Permitir a exportação da lista de pontos importantes em diferentes formatos (e.g., Markdown, CSV).
 
 ## 📌 Checklist de Melhorias
 ### ✅ Pontos Fortes
@@ -132,6 +140,7 @@ print(result["text"])
 - [x] Interface intuitiva com Dash para interação amigável.
 - [x] Código modular e escalável para expansões futuras.
 - [x] Automação completa de extração, transcrição e criação de posts.
+- [x] Criação de lista de pontos importantes com links diretos para o vídeo.
 
 ### 🚀 Pontos a Melhorar
 - [ ] Suporte a vídeos ao vivo.
@@ -141,6 +150,10 @@ print(result["text"])
 - [ ] Exportação de resumos em formatos variados.
 - [ ] Análise de emoções na fala.
 - [ ] Chatbot interativo.
+- [ ] Personalização da lista de pontos importantes.
+- [ ] Visualização de trechos ao passar o mouse nos links.
+- [ ] Múltiplos critérios para identificação de pontos importantes.
+- [ ] Exportação da lista de pontos importantes em diferentes formatos.
 
 ## 💡 Contribuições
 Fique à vontade para sugerir melhorias! Abra uma **issue** ou envie um **pull request** para colaborar.
