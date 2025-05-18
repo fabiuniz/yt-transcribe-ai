@@ -1,4 +1,4 @@
-# !pip install dash dash-bootstrap-components openai-whisper yt-dlp torch nltk requests
+# !pip install dash dash-bootstrap-components openai-whisper yt-dlp torch nltk requests google.adk
 import nltk
 from nltk.util import ngrams
 import dash
