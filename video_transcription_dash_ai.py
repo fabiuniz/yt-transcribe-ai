@@ -270,7 +270,7 @@ app.layout = dbc.Container([
         dbc.Col([
             html.H2("Transcrição de Áudio do YouTube", className="mt-4 text-secondary"),
             html.Label("URL do Vídeo do YouTube:", className="fw-bold"),
-            dcc.Input(id="input-url", type="text", placeholder="Insira a URL do vídeo do YouTube aqui...", className="form-control mb-2"),
+            dcc.Input(id="input-url", type="text", placeholder="Insira a URL do vídeo do YouTube aqui...", className="form-control mb-2",value="https://www.youtube.com/watch?v=cgy9diQA6DM"),
             dcc.Dropdown(
                 id="idioma-transcricao",
                 options=[
