@@ -1,3 +1,10 @@
+<!-- 
+  Tags: DadosIA
+  Label: 🧠 Transcrição vídeos e análise de sentimento IA
+  Description: "Projeto para transcrever vídeos do YouTube e realizar análise de sentimento usando FastAPI e IA.,
+  path_hook: hookfigma.hook2
+
+-->
 # 🎤 Extração de Áudio do YouTube e Processamento via IA
 
 ## 📌 Descrição
@@ -157,3 +164,10 @@ print(result["text"])
 
 ## 💡 Contribuições
 Fique à vontade para sugerir melhorias! Abra uma **issue** ou envie um **pull request** para colaborar.
+
+## 👨‍💻 Author
+[Fabiano Rocha/Fabiuniz]
+
+## Licence
+
+[MIT License]
